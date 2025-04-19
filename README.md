@@ -2,7 +2,8 @@
 
 Canalización (Pipeline) de NLP
 Se realizará una “canalización” o “pipeline” para analizar el siguiente corpus `CorpusLenguajes.txt`
-Técnicas a aplicar:
+
+## Técnicas a aplicar:
 - stop_word
 - Lematización
 - Tf-Idf
